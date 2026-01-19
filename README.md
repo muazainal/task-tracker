@@ -24,9 +24,9 @@ This project demonstrates **front-end development skills**, **DOM manipulation w
 ---
 
 ## Live Demo
-Deployed version: [Live Website Link](INSERT-LIVE-LINK)  
+Deployed version: [Live Website Link](https://muazainal.github.io/task-tracker/)  
 
-GitHub repository: [GitHub Repo Link](INSERT-GITHUB-LINK)  
+GitHub repository: [GitHub Repo Link](https://github.com/muazainal/task-tracker)  
 
 ---
 
@@ -54,5 +54,4 @@ To run locally:
 
 1. Clone the repository:
 ```bash
-git clone 
-git clone 
+git clone https://github.com/muazainal/task-tracker
