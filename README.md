@@ -42,7 +42,7 @@ GitHub repository: [GitHub Repo Link](https://github.com/muazainal/task-tracker)
 
 ## Technologies Used
 - **HTML5** – Semantic structure  
-- **CSS3** – Flexbox/Grid layout, media queries  
+- **CSS3** – Flexbox/Grid layout  
 - **JavaScript (ES6+)** – DOM manipulation, event listeners, loops, conditionals  
 - **Git & GitHub** – Version control with meaningful commits  
 - **Cloud Hosting** – Deployed online  
