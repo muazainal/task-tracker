@@ -55,3 +55,20 @@ To run locally:
 1. Clone the repository:
 ```bash
 git clone https://github.com/muazainal/task-tracker
+```
+
+---
+
+
+## AI Assistance & Reflection
+AI tools were used during the development of this project to support learning and productivity.
+
+AI assisted with:
+- Explaining JavaScript concepts and DOM manipulation  
+- Debugging errors and understanding why certain code did not work  
+- Suggesting improvements for code structure and readability  
+- Helping to write documentation such as this README  
+
+Reflection:  
+AI was used as a **learning aid**, not a replacement for understanding. All code was reviewed, modified, and implemented by me. Using AI helped me work more efficiently under time constraints and improved my understanding of JavaScript logic, problem-solving, and best practices.
+
