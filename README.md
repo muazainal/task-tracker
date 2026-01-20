@@ -6,13 +6,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation & Deployment](#installation--deployment)
-- [Code Structure](#code-structure)
-- [JavaScript Functionality](#javascript-functionality)
-- [Accessibility & Responsiveness](#accessibility--responsiveness)
-- [Testing & Validation](#testing--validation)
 - [AI Assistance & Reflection](#ai-assistance--reflection)
-- [Screenshots](#screenshots)
-- [Author](#author)
 
 ---
 
