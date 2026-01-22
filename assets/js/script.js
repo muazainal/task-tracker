@@ -46,9 +46,9 @@ function addTask() {
 
     // Change the icon depending on task status
     if (li.classList.contains("completed")) {
-      completeBtn.textContent = "✔️"; // Show check icon if done
+      completeBtn.textContent = "☑️"; // Show check icon if done
     } else {
-      completeBtn.textContent = "⚒️"; // Show default icon if not done
+      completeBtn.textContent = "📋"; // Show default icon if not done
     }
   });
 
